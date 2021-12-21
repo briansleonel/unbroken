@@ -1,0 +1,29 @@
+.contentInfoPredicador {
+    width: 100%;
+    margin-top: 2rem;
+    display: flex;
+}
+
+.contentInfoPredicador img {
+    width: 30%;
+    border-radius: 50%;
+}
+
+.contentInfoPredicador div {
+    padding-left: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .contentInfoPredicador {
+        flex-direction: column;
+    }
+
+    .contentInfoPredicador img {
+        width: 60%;
+        margin: auto;
+    }
+
+    .contentInfoPredicador div {
+        padding: 0;
+    }
+}
