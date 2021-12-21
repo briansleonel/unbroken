@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/unbroken/static/css/main.a0335c04.chunk.css",
+    "main.js": "/unbroken/static/js/main.f1580bea.chunk.js",
+    "main.js.map": "/unbroken/static/js/main.f1580bea.chunk.js.map",
+    "runtime-main.js": "/unbroken/static/js/runtime-main.4ca58428.js",
+    "runtime-main.js.map": "/unbroken/static/js/runtime-main.4ca58428.js.map",
+    "static/css/2.383c0125.chunk.css": "/unbroken/static/css/2.383c0125.chunk.css",
+    "static/js/2.18a1bb7a.chunk.js": "/unbroken/static/js/2.18a1bb7a.chunk.js",
+    "static/js/2.18a1bb7a.chunk.js.map": "/unbroken/static/js/2.18a1bb7a.chunk.js.map",
+    "static/js/3.d1f5de7d.chunk.js": "/unbroken/static/js/3.d1f5de7d.chunk.js",
+    "static/js/3.d1f5de7d.chunk.js.map": "/unbroken/static/js/3.d1f5de7d.chunk.js.map",
+    "index.html": "/unbroken/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/unbroken/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.a0335c04.chunk.css.map": "/unbroken/static/css/main.a0335c04.chunk.css.map",
+    "static/js/2.18a1bb7a.chunk.js.LICENSE.txt": "/unbroken/static/js/2.18a1bb7a.chunk.js.LICENSE.txt",
+    "static/media/jorge-rios.d4c681d3.jpeg": "/unbroken/static/media/jorge-rios.d4c681d3.jpeg",
+    "static/media/logo.56076ee2.jpg": "/unbroken/static/media/logo.56076ee2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca58428.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.18a1bb7a.chunk.js",
+    "static/css/main.a0335c04.chunk.css",
+    "static/js/main.f1580bea.chunk.js"
+  ]
+}
